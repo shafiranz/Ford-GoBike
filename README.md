@@ -4,3 +4,4 @@ Proyek ini dibuat sebagai bagian dari portofolio data analyst untuk menganalisis
 Selama prosesnya, data dibersihkan dari nilai kosong, duplikasi, dan outlier agar hasil analisis lebih akurat. Setelah itu dilakukan eksplorasi dan visualisasi menggunakan Python (Pandas, Seaborn, dan Matplotlib) untuk melihat hubungan antar variabel seperti jenis kelamin, tahun lahir, dan pola penyewaan.
 
 Hasil akhirnya memberikan gambaran bahwa layanan ini paling banyak digunakan oleh pelanggan berlangganan laki-laki dengan durasi perjalanan yang relatif singkat. Dari temuan tersebut juga muncul beberapa ide pengembangan, seperti peningkatan layanan di stasiun sepi, promosi berbasis lokasi, dan program loyalitas ramah lingkungan.
+Hasil Akhir : https://github.com/shafiranz/Ford-GoBike/blob/main/Dashboard
