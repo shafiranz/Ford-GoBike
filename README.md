@@ -1,5 +1,5 @@
 # Analisis Data Ford-GoBike
-Proyek ini dibuat sebagai bagian dari portofolio data analyst untuk menganalisis layanan penyewaan sepeda Ford GoBike milik Ford Motor Company. Analisis ini berfokus pada bagaimana pengguna—baik pelanggan biasa maupun berlangganan—memanfaatkan layanan sepeda berdasarkan durasi perjalanan, lokasi stasiun, serta perbedaan perilaku antar pengguna.
+Proyek ini dibuat sebagai bagian dari portofolio data analyst untuk menganalisis layanan penyewaan sepeda Ford GoBike milik Ford Motor Company. Analisis ini berfokus pada bagaimana pengguna (baik pelanggan biasa maupun berlangganan) memanfaatkan layanan sepeda berdasarkan durasi perjalanan, lokasi stasiun, serta perbedaan perilaku antar pengguna.
 
 Selama prosesnya, data dibersihkan dari nilai kosong, duplikasi, dan outlier agar hasil analisis lebih akurat. Setelah itu dilakukan eksplorasi dan visualisasi menggunakan Python (Pandas, Seaborn, dan Matplotlib) untuk melihat hubungan antar variabel seperti jenis kelamin, tahun lahir, dan pola penyewaan.
 
